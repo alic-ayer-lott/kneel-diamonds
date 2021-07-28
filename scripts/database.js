@@ -57,10 +57,10 @@ export const setMetal = (id) => {
     database.orderBuilder.metalId = id
 }
 
-export const setSize = (id) => {
+export const setDiamondSize= (id) => {
     database.orderBuilder.sizeId = id
 }
 
-export const setStyle = (id) => {
+export const setJewelryStyle = (id) => {
     database.orderBuilder.styleId = id
 }
